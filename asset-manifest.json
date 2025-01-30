@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-solana-app/static/css/main.34e71ecc.css",
+    "main.css": "/react-solana-app/static/css/main.86ec1f57.css",
     "main.js": "/react-solana-app/static/js/main.b3a33719.js",
     "static/js/648.ec0c8f66.chunk.js": "/react-solana-app/static/js/648.ec0c8f66.chunk.js",
     "static/js/227.a31bd11e.chunk.js": "/react-solana-app/static/js/227.a31bd11e.chunk.js",
     "index.html": "/react-solana-app/index.html",
-    "main.34e71ecc.css.map": "/react-solana-app/static/css/main.34e71ecc.css.map",
+    "main.86ec1f57.css.map": "/react-solana-app/static/css/main.86ec1f57.css.map",
     "main.b3a33719.js.map": "/react-solana-app/static/js/main.b3a33719.js.map",
     "648.ec0c8f66.chunk.js.map": "/react-solana-app/static/js/648.ec0c8f66.chunk.js.map",
     "227.a31bd11e.chunk.js.map": "/react-solana-app/static/js/227.a31bd11e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.34e71ecc.css",
+    "static/css/main.86ec1f57.css",
     "static/js/main.b3a33719.js"
   ]
 }
